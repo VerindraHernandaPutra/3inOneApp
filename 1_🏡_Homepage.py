@@ -7,6 +7,6 @@ st.set_page_config(
 
 universal_func.logo()
 
-st.image("Asset/Welcome.png")
+st.image("Asset/WELCOME.png")
 universal_func.pilih_page()
 st.image("Asset/ClickOneAbove.png")
