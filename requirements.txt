@@ -3,6 +3,7 @@ streamlit_option_menu
 numpy
 pandas
 matplotlib==3.9.2
+st_clickable_images
 scikit-learn
 plotly==5.24.0
 seaborn
